@@ -1,6 +1,6 @@
 # editordememes
 
-Este proyecto es el segundo realizado durante la cursada del bootcamp de Desarrollo web FrontEnd de ADA (https://adaitw.org/carreras/). 
+Este proyecto es el segundo realizado durante la cursada de la carrera Desarrollo web FrontEnd de ADA (https://adaitw.org/carreras/). 
 Trata de una aplicación con la que se puede manipular dinamicamente el texto y la imagen elegida, la cual se ingresa mediante url, pudiendo modificar su contendido 
 y propiedades para luego descargarla.
 
